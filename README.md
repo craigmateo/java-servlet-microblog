@@ -5,6 +5,10 @@ Implements a Java Servlet–based web app where users can create, edit, and dele
 
 ---
 
+## Video Demo
+
+https://github.com/user-attachments/assets/9066813d-2177-4d1f-a050-0e0c3f72a009
+
 ## Project Overview
 
 This project is a Java web application built with:
@@ -257,3 +261,4 @@ Sensitive information such as database credentials is externalized using environ
 ## License / Notes
 
 This project was developed as part of a course assignment and is intended for educational use.
+
